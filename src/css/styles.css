@@ -87,7 +87,9 @@
     margin: 0 auto;
     background: #4e75ff;
 }
-
+.serch-form {
+  margin: 0 auto;
+}
 form .serch-input {
   border: 1px solid #808080;
   border-radius: 4px;
